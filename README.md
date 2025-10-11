@@ -1,3 +1,3 @@
-# StruktureLab
+#StrukturePodataka
 
-ovaj repozitorij sadrzi labaroatorijske vjezbe iz kolegija Strukture podataka
+Ovaj repozitorij sadrzi labaratorijske vjezbe kolegija Strukture podataka 2025/2026
