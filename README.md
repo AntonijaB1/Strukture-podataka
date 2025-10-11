@@ -1,3 +1,3 @@
 # StruktureLab
 
-ovaj repozitorij sadrzi labaroatorijske vjezbe
+ovaj repozitorij sadrzi labaroatorijske vjezbe iz kolegija Strukture podataka
