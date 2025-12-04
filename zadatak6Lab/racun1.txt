@@ -1,0 +1,5 @@
+2025-2-15
+banana 4 0.72
+jabuka 8 0.86
+mandarina 10 1.12
+luk 3 0.8

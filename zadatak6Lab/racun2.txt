@@ -1,0 +1,5 @@
+2025-2-17
+jabuka 3 0.86
+mandarina 5 1.12
+limun 7 0.45
+kupus 2 1.34
