@@ -1,0 +1,4 @@
+Berlin, 3769000
+Hamburg, 1841000
+München, 1472000
+Köln, 1086000

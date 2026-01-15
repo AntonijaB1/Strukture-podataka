@@ -1,0 +1,4 @@
+Pariz, 2148000
+Marseille, 861635
+Lyon, 513275
+Toulouse, 479553
